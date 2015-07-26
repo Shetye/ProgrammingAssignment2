@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The functions together compute inverse of a matrix and keep track of 
+## whether or not the inverse already exits.  If it exists, then 
+## it is obtained from cache.
 ##
 ## This function produces a list of the following 4 function
 ## 1) setmatrix: function to define matrix x
