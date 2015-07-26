@@ -1,4 +1,4 @@
-## The functions together compute inverse of a matrix and keep track of 
+## The two functions given here together compute inverse of a matrix and keep track of 
 ## whether or not the inverse already exits.  If it exists, then 
 ## it is obtained from cache.
 ##
